@@ -8,7 +8,8 @@ cout<<" Enter your first value = ";
 cin>>a;
 cout<<" Enter your second value  = ";
 cin>>b;
-sum=a+b;cout<<" The sum of the given values is :";
+sum=a+b;
+cout<<" The sum of the given values is :";
 cout<<sum;
 return 0;
 }
